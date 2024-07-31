@@ -1,0 +1,7 @@
+ImageHeight=500
+ImageWidthMax=1920
+OutputImageName=_waveform.png
+VolumeThreshold=0.1
+SpikeDetectionMultiplier=3
+QueueNum=10
+CoolDownSamples=20

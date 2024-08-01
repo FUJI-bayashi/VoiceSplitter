@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ImageHeight=500
 ImageWidthMax=1920
 OutputImageName=_waveform.png
@@ -6,12 +5,3 @@ VolumeThreshold=0.1
 SpikeDetectionMultiplier=3
 QueueNum=10
 CoolDownSamples=20
-=======
-ImageHeight=500
-ImageWidthMax=1920
-OutputImageName=_waveform.png
-VolumeThreshold=0.1
-SpikeDetectionMultiplier=3
-QueueNum=10
-CoolDownSamples=20
->>>>>>> acea92edc2bc0a08eb1e93139622d151efba3ec4
